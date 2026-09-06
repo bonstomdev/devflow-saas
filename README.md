@@ -1,9 +1,7 @@
-devflow-saas-mvp.zip
-        ↓
-devflow-saas-mvp/
+devflow-saas/
 ├── app/
 ├── components/
 ├── .github/
 ├── package.json
 ├── README.md
-└── ...
+└── LICENSE
